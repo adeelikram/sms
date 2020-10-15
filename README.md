@@ -1,0 +1,2 @@
+# sms
+Capacitor SMS plugin
