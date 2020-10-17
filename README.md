@@ -37,10 +37,10 @@ Now goto angular project
    .....................................
 
 ### sumFunc(){
-### sms.makeCall({
-###  number:"+xxxxxxxxxxx",
-###  text:"Hello World!\n"
-###  })
+###    sms.makeCall({
+###       number:"+xxxxxxxxxxx",
+###       text:"Hello World!\n"
+###     })
 ###  }
 
 
